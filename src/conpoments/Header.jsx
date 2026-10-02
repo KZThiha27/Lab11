@@ -1,3 +1,4 @@
+<p>Week 10 - Interactive React Application</p>
 function Header() {
     return (
         <header>
